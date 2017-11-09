@@ -10,5 +10,7 @@ class Doctor
     @appointments << appointment
   end
 
-  
+  def patients
+    
+  end
 end

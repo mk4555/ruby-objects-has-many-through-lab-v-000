@@ -10,5 +10,8 @@ class Genre
     @name
   end
 
+  def songs
+    
+  end
   
 end

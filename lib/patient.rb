@@ -10,7 +10,7 @@ class Patient
     @appointments << appointment
   end
 
-  def doctor
+  def doctors
     @appointments.collect do |appt|
       appt.doctor
     end

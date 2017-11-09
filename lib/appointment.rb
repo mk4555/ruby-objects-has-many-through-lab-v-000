@@ -1,5 +1,5 @@
 class appointment
-  def initialize
-    
+  def initialize(date, doctor)
+    d]
   end
 end

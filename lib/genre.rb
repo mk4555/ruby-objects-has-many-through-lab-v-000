@@ -10,5 +10,7 @@ class Genre
     @name
   end
 
-
+  def artists
+    
+  end
 end

@@ -10,9 +10,5 @@ class Genre
     @name
   end
 
-  def songs
-    @songs
-  end
-
 
 end
